@@ -15,6 +15,7 @@
       "description": "Make a bot at BotFather http://telegram.dog/BotFather and get the token of your bot",
       "value": "",
       "required": true
+  "logo": "https://github.com/Thisalx-x/telegram-song-download-bot/blob/main/icon.png"
     }
   }
 }
