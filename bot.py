@@ -64,7 +64,7 @@ class Chat:
                     '📩 Send me:\n\n'
                     '"*/music* _song name_"  or\n'
                     '"*/music* _musician name - song name_"\n\n'
-                    'to order some music. 🎶',
+                    'to order some music. 🎶  Made by ᳆⃝ᴋͥɪɴͣɢͫT H I S A L🇦🇴',
             
             'spotify_input_error':"‼️ *Oops! The bot doesn't support Spotify links!*\n"
                     'Try: "*/music* _song name_"\n'
@@ -116,7 +116,7 @@ class Chat:
             try:
                 self.send_audio(file_name)
                 self.delete_message(downloading_message)
-                self.send_message('✅ Sucess!')
+                self.send_message('✅ download!')
                 print ("\nSucess!\n")
             except:
                 print("\nError")
