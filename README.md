@@ -20,7 +20,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Youtube+SONG+Download&font=Fira%20Code&center=true&width=380&height=50">
   
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=SRI+LANKA+BOT+🌍&font=Fira%20Code&center=true&width=380&height=50">
+  
 
 
 
