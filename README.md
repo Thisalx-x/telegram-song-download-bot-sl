@@ -21,7 +21,7 @@
   
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=SRI+LANKA+BOT+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=SRI+LANKA+BOT" width="24px">
 
 &font=Fira%20Code&center=true&width=380&height=50">
   
