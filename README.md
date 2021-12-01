@@ -14,6 +14,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thisalx-x/telegram-song-download-bot)
 
+මෙයට ඔබ හට heroku account ekack අත්වශ්‍ය වේ
 
 
 
