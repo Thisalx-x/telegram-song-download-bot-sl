@@ -64,7 +64,7 @@ class Chat:
                     '📩 Send me:\n\n'
                     '"*/music* _song name_"  or\n'
                     '"*/music* _musician name - song name_"\n\n'
-                    'to order some music. 🎶 /n Made by ᳆⃝ᴋͥɪɴͣɢͫT H I S A L🇦🇴',
+                    'to order some music. 🎶/nMade by ᳆⃝ᴋͥɪɴͣɢͫT H I S A L🇦🇴',
             
             'spotify_input_error':"‼️ *Oops! The bot doesn't support Spotify links!*\n"
                     'Try: "*/music* _song name_"\n'
