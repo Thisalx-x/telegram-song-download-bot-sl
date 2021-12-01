@@ -17,13 +17,12 @@
 මෙයට ඔබ හට heroku account ekack අත්වශ්‍ය වේ
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Youtube+SONG+Download&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Youtube+SONG+Download&font=Fira%20Code&center=true&width=380&height=50"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+
   
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=SRI+LANKA+BOT" width="24px">
 
-&font=Fira%20Code&center=true&width=380&height=50">
   
 
 
