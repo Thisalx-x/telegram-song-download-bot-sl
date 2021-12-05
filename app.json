@@ -1,7 +1,7 @@
 {
   "name": "telegram-song-downloader-bot",
-  "logo": "https://github.com/Thisalx-x/telegram-song-download-bot-sl/blob/main/icon.png"
   "description": "YouTube Music Downloader Bot for Telegram සිංහල. ",
+  "logo": "https://github.com/Thisalx-x/telegram-song-download-bot-sl/blob/main/icon.png",
 	"stack": "container",
   "repository": "https://github.com/Thisalx-x/telegram-song-download-bot",
   "keywords": [
