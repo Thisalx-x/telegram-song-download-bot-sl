@@ -12,14 +12,14 @@
 
 # 🟪 Deploy on Heroku
 
-මෙයට ඔබ හට heroku account එකක් අත්‍යවශ්‍ය වේ
+<b>මෙයට ඔබ හට heroku account එකක් අත්‍යවශ්‍ය වේ
 
 
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thisalx-x/telegram-song-download-bot)
   
-  සිංදු download වීමට විනාඩි දෙකක් ගත වේ.
+ <b> සිංදු download වීමට විනාඩි දෙකක් ගත වේ.
 
 
 <p align="center">
