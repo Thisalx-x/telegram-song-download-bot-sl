@@ -19,7 +19,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Youtube+SONG+Download&font=Fira%20Code&center=true&width=380&height=50"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-
+<p align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif">
   
 
 
