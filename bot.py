@@ -28,7 +28,7 @@ class Music:
         return result['result'][0]['title']
 
     def get_view(self,result):
-        return result['result'[0]['view']]
+        return result['result'][0]['view']
 
     def get_duration(self, result):
         result = result['result'][0]['duration'].split(':')
